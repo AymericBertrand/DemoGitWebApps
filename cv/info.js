@@ -3,5 +3,6 @@ const mesInfos = {
     prenom : "Aymeric",
     age : 34,
     adresse : "Bld pire L desnouettes",
-    tel : "0492072272"
+    tel : "0492072272",
+    hobbies : "musculation"
 };
